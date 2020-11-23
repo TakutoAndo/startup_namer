@@ -1,7 +1,7 @@
 
 # myapp_flutter
 
-A new Flutter project.
+Flutter　チュートリアル。
 
 ## Getting Started
 
